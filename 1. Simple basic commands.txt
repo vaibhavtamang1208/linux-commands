@@ -1,0 +1,17 @@
+To check which directory you are in - pwd
+To list all the files and folders in the current directory - ls
+To view the currently running process - ps
+To know the OS - uname
+To exit the shell - exit
+To get help on any command - man
+To change directory - cd <location>
+To see the date and time - date
+To see the calendar month - cal
+To see the memory statistics - free
+To see groups to which the user belongs - groups
+To remove a file - rm
+To know current user - whoami
+Read a text file, page-by-page - less <file-name>
+To know the type of file - file <file-name>
+To create a copy of file - cp
+To rename a file - mv
