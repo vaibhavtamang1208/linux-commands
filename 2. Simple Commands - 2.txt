@@ -1,0 +1,8 @@
+Display files and folders in current directory: ls -l
+To read text files, page-by-page: less <file-name>
+To read text files, page-by-page: cat <file-name>
+Display the first 10 lines of a file: head <file-name>
+Display the last 10 lines of a file: tail <file-name>
+Dispaly the number of lines, words and bytes in a file: wc<file-name>
+Command to locate the commands - which <command>
+Give brief description of a command - whatis <commad>
